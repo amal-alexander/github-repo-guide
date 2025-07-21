@@ -498,7 +498,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style='text-align: center; color: #666; padding: 2rem;'>
-        <p>Made with ❤️ using Streamlit | 100% Free & Open Source</p>
+        <p>Made with ❤️ using Streamlit by Amal Alexander | 100% Free & Open Source</p>
         <p><small>This tool uses GitHub's public API and doesn't require authentication for public repositories</small></p>
     </div>
     """, unsafe_allow_html=True)
